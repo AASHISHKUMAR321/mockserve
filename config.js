@@ -7,7 +7,6 @@ export default {
     { route: "/comments", methods: ["POST", "PUT", "DELETE", "PATCH"] },
     { route: "/photos", methods: ["POST", "PUT", "DELETE", "PATCH"] },
     { route: "/todos", methods: ["GET", "POST", "PUT", "DELETE", "PATCH"] },
-    { route: "/products", methods: ["GET", "POST", "PUT", "DELETE", "PATCH"] },
   ],
 };
 
