@@ -4,7 +4,7 @@ GET http://127.0.0.1:9090/recipeIngredients?_limit=5&_page=1
 
 ### JSON Server GET - Read All Employees
 
-GET http://localhost:9090/employees
+GET https://dark-pink-cod-tam.cyclic.app/products?_page=1
 
 ### JSON Server POST - Create an Employee
 
